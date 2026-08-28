@@ -107,14 +107,14 @@ const yogeshwaran = {
 
 </div>
 
-## 3D Contribution Profile
+## 3D contribution profile
 
 <div align="center">
 
 <img
   src="./profile-3d-contrib/profile-green-animate.svg"
   alt="3D contribution profile"
->
+/>
 
 </div>
 
