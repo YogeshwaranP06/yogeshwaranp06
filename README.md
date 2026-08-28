@@ -90,7 +90,7 @@ const yogeshwaran = {
 
 </div>
 
-## Contribution Snake
+## Contribution snake
 
 <div align="center">
 
@@ -98,11 +98,11 @@ const yogeshwaran = {
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/YogeshwaranP06/yogeshwaranp06/main/dist/github-contribution-grid-snake-dark.svg"
-  >
+  />
   <img
     src="https://raw.githubusercontent.com/YogeshwaranP06/yogeshwaranp06/main/dist/github-contribution-grid-snake.svg"
     alt="GitHub contribution snake animation"
-  >
+  />
 </picture>
 
 </div>
