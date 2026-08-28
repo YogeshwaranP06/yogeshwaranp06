@@ -80,25 +80,16 @@ const yogeshwaran = {
 
 <div align="center">
 
-<img
-  width="390"
-  src="https://github-readme-stats.vercel.app/api?username=YogeshwaranP06&show_icons=true&theme=tokyonight&border_radius=12"
-  alt="GitHub stats"
-/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution profile">
 
-<img
-  width="390"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshwaranP06&theme=tokyonight&border_radius=12"
-  alt="GitHub streak"
-/>
+<br><br>
 
-<br>
-
-<img
-  width="325"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshwaranP06&layout=compact&theme=tokyonight&border_radius=12"
-  alt="Top languages"
-/>
+<p>
+  View all my repositories:
+  <a href="https://github.com/YogeshwaranP06?tab=repositories">
+    GitHub Repositories
+  </a>
+</p>
 
 </div>
 
