@@ -80,13 +80,25 @@ const yogeshwaran = {
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=yogeshwaranp06&show_icons=true&theme=tokyonight&border_radius=12" alt="GitHub stats" />
+<img
+  width="390"
+  src="https://github-readme-stats.vercel.app/api?username=YogeshwaranP06&show_icons=true&theme=tokyonight&border_radius=12"
+  alt="GitHub stats"
+/>
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshwaranp06&theme=tokyonight&border_radius=12" alt="GitHub streak" />
+<img
+  width="390"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshwaranP06&theme=tokyonight&border_radius=12"
+  alt="GitHub streak"
+/>
 
-<br />
+<br>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwaranp06&layout=compact&theme=tokyonight&border_radius=12" alt="Top languages" />
+<img
+  width="325"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshwaranP06&layout=compact&theme=tokyonight&border_radius=12"
+  alt="Top languages"
+/>
 
 </div>
 
