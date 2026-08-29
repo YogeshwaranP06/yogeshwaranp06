@@ -116,17 +116,6 @@ const yogeshwaran = {
 
 </div>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YogeshwaranP06&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshwaranP06&layout=compact&langs_count=8&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YogeshwaranP06&hide_border=true" height="180"/>
-</p>
-
 ## Featured Projects
 
 ### [Semiconductor Image Restoration](https://github.com/YogeshwaranP06/semiconductor-image-restoration)
@@ -166,6 +155,7 @@ AI-powered road safety solution developed for a national hackathon, focusing on 
 **AI · Computer Vision · YOLO · Web Development**
 
 [View Project →](https://yogeshwaranp06.github.io/road_safety/)
+
 ## Connect With Me
 
 <div align="center">
