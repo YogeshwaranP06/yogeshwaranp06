@@ -110,24 +110,30 @@ const yogeshwaran = {
 
 </div>
 
-## 3D contribution profile
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YogeshwaranP06&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshwaranP06&layout=compact&langs_count=8&hide_border=true" height="180"/>
+</p>
 
-<img
-  src="./profile-3d-contrib/profile-green-animate.svg"
-  alt="3D contribution profile"
-/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YogeshwaranP06&hide_border=true" height="180"/>
+</p>
 
 ## Featured Projects
 
-Add your projects below:
+- **[Semiconductor Image Restoration](https://github.com/YogeshwaranP06/semiconductor-image-restoration)**  
+  AI-based restoration of degraded semiconductor inspection images using deep learning.
 
-- [Project Name](https://github.com/YogeshwaranP06) — Add a short description.
-- [Project Name](https://github.com/YogeshwaranP06) — Add a short description.
-- [Project Name](https://github.com/YogeshwaranP06) — Add a short description.
+- **[RoadRakshak](https://github.com/YogeshwaranP06/RoadRakshak)**  
+  Real-time road anomaly detection using YOLO and edge AI.
+
+- **[Network Protocol Analysis](https://github.com/YogeshwaranP06/network-protocol-analysis)**  
+  Comparative analysis of TLS and QUIC using Wireshark and Python.
+
+- **[Road Safety AI](https://yogeshwaranp06.github.io/road_safety/)**  
+  AI-driven road safety solution developed for a national hackathon.
 
 ## Connect With Me
 
