@@ -98,24 +98,22 @@ const yogeshwaran = {
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </div>
-## GitHub activity
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution profile">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshwaranP06&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
 
 <br><br>
 
-<p>
-  View all my repositories:
-  <a href="https://github.com/YogeshwaranP06?tab=repositories">
-    GitHub Repositories
-  </a>
-</p>
+<a href="https://github.com/YogeshwaranP06?tab=repositories">
+  View all my repositories →
+</a>
 
 </div>
 
-## Contribution snake
+## Contribution Snake
 
 <div align="center">
 
@@ -126,7 +124,7 @@ const yogeshwaran = {
   />
   <img
     src="https://raw.githubusercontent.com/YogeshwaranP06/yogeshwaranp06/main/dist/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
+    alt="GitHub Contribution Snake"
   />
 </picture>
 
