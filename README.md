@@ -99,23 +99,6 @@ const yogeshwaran = {
 
 </div>
 
-## GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshwaranP06&theme=github-compact&hide_border=true"
-  alt="GitHub Activity Graph"
-/>
-
-<br><br>
-
-<a href="https://github.com/YogeshwaranP06?tab=repositories">
-  View all my repositories →
-</a>
-
-</div>
-
 ## Contribution Snake
 
 <div align="center">
@@ -146,40 +129,25 @@ const yogeshwaran = {
 
 ## Featured Projects
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Semiconductor Image Restoration
+### [Semiconductor Image Restoration](https://github.com/YogeshwaranP06/semiconductor-image-restoration)
 
 AI-based restoration of degraded semiconductor inspection images using deep learning, focusing on super-resolution and image denoising.
 
 **PyTorch · Computer Vision · Image Processing**
 
-<a href="https://github.com/YogeshwaranP06/semiconductor-image-restoration">
-  View Project →
-</a>
+[View Project →](https://github.com/YogeshwaranP06/semiconductor-image-restoration)
 
-    </td>
-    <td width="50%" valign="top">
+---
 
-### RoadRakshak
+### [RoadRakshak](https://github.com/YogeshwaranP06/RoadRakshak)
 
 Real-time road anomaly detection system designed for edge deployment using computer vision and lightweight deep learning models.
 
 **YOLO · OpenCV · TensorFlow Lite · Raspberry Pi**
 
-<a href="https://github.com/YogeshwaranP06/RoadRakshak">
-  View Project →
-</a>
+[View Project →](https://github.com/YogeshwaranP06/RoadRakshak)
 
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### Network Protocol Analysis
 
@@ -187,29 +155,17 @@ Comparative analysis of TLS and QUIC network protocols using packet capture, Wir
 
 **Wireshark · Python · Networking · QUIC · TLS**
 
-<a href="https://github.com/YogeshwaranP06">
-  View Project →
-</a>
+[View GitHub →](https://github.com/YogeshwaranP06)
 
-    </td>
-    <td width="50%" valign="top">
+---
 
-### Road Safety AI
+### [Road Safety AI](https://yogeshwaranp06.github.io/road_safety/)
 
 AI-powered road safety solution developed for a national hackathon, focusing on detecting road-related anomalies from visual data.
 
 **AI · Computer Vision · YOLO · Web Development**
 
-<a href="https://yogeshwaranp06.github.io/road_safety/">
-  View Project →
-</a>
-
-    </td>
-  </tr>
-</table>
-
-</div>
-
+[View Project →](https://yogeshwaranp06.github.io/road_safety/)
 ## Connect With Me
 
 <div align="center">
