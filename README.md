@@ -143,44 +143,90 @@ const yogeshwaran = {
 
 ## Featured Projects
 
-- **[Semiconductor Image Restoration](https://github.com/YogeshwaranP06/semiconductor-image-restoration)**  
-  AI-based restoration of degraded semiconductor inspection images using deep learning.
+<div align="center">
 
-- **[RoadRakshak](https://github.com/YogeshwaranP06/RoadRakshak)**  
-  Real-time road anomaly detection using YOLO and edge AI.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-- **[Network Protocol Analysis](https://github.com/YogeshwaranP06/network-protocol-analysis)**  
-  Comparative analysis of TLS and QUIC using Wireshark and Python.
+### Semiconductor Image Restoration
 
-- **[Road Safety AI](https://yogeshwaranp06.github.io/road_safety/)**  
-  AI-driven road safety solution developed for a national hackathon.
+AI-based restoration of degraded semiconductor inspection images using deep learning, focusing on super-resolution and image denoising.
+
+**PyTorch · Computer Vision · Image Processing**
+
+<a href="https://github.com/YogeshwaranP06/semiconductor-image-restoration">
+  View Project →
+</a>
+
+    </td>
+    <td width="50%" valign="top">
+
+### RoadRakshak
+
+Real-time road anomaly detection system designed for edge deployment using computer vision and lightweight deep learning models.
+
+**YOLO · OpenCV · TensorFlow Lite · Raspberry Pi**
+
+<a href="https://github.com/YogeshwaranP06/RoadRakshak">
+  View Project →
+</a>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### Network Protocol Analysis
+
+Comparative analysis of TLS and QUIC network protocols using packet capture, Wireshark and Python-based analysis.
+
+**Wireshark · Python · Networking · QUIC · TLS**
+
+<a href="https://github.com/YogeshwaranP06">
+  View Project →
+</a>
+
+    </td>
+    <td width="50%" valign="top">
+
+### Road Safety AI
+
+AI-powered road safety solution developed for a national hackathon, focusing on detecting road-related anomalies from visual data.
+
+**AI · Computer Vision · YOLO · Web Development**
+
+<a href="https://yogeshwaranp06.github.io/road_safety/">
+  View Project →
+</a>
+
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://github.com/YogeshwaranP06">
+  <img src="https://img.shields.io/badge/GitHub-YogeshwaranP06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+<a href="https://www.linkedin.com/in/yogeshwaran-p-7a517a332/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yogeshwaran%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://youtube.com/@vikcosmic">
+  <img src="https://img.shields.io/badge/YouTube-VikCosmic-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
-
-<div align="center">
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YogeshwaranP06&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views">
-
-<br><br>
-
-Thanks for visiting — keep building! ✨
 
 </div>
