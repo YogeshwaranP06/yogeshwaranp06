@@ -4,7 +4,7 @@
 
 <img width="100%" height="220" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yogeshwaran&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Engineer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="Profile header">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&center=true&vCenter=true&width=760&height=60&duration=3500&pause=900&color=58A6FF&lines=Welcome+to+my+digital+workspace!;Building+useful+things+with+code;Always+learning%2C+always+shipping" alt="Typing introduction">
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&center=true&vCenter=true&width=760&height=60&duration=3500&pause=900&color=58A6FF&lines=Welcome+to+my+digital+workspace!;Building+useful+things+with+code;Exploring+AI%2C+Embedded+Systems+%26+Robotics;Always+learning%2C+always+building" alt="Typing introduction">
 
 <p>
   <a href="https://github.com/YogeshwaranP06">
@@ -17,21 +17,31 @@
 
 </div>
 
+---
+
 ## About Me
 
 ```javascript
 const yogeshwaran = {
   name: "Yogeshwaran",
+  education: "B.E. Electronics and Communication Engineering",
   location: "India 🇮🇳",
-  focus: [
-    "Software development",
-    "Problem solving",
-    "Open source"
+
+  interests: [
+    "Embedded Systems",
+    "AI & Machine Learning",
+    "Signal & Image Processing",
+    "Robotics"
   ],
+
   currentlyLearning: [
-    "Add your current topics here"
+    "Data Structures & Algorithms",
+    "Embedded Systems",
+    "Deep Learning",
+    "Computer Vision"
   ],
-  goal: "Build simple, reliable solutions that help people"
+
+  goal: "Build practical, reliable solutions that solve real-world problems"
 };
 ```
 
@@ -42,19 +52,19 @@ const yogeshwaran = {
 <table>
   <tr>
     <td align="center" width="33%">
-      🚀<br>
+      🔧<br>
       <strong>Build</strong><br>
-      Practical projects and experiments
+      Embedded systems, AI projects and practical prototypes
     </td>
     <td align="center" width="33%">
-      🧠<br>
-      <strong>Learn</strong><br>
-      New tools, patterns, and ideas
+      🔬<br>
+      <strong>Research</strong><br>
+      Computer vision, image processing and intelligent systems
     </td>
     <td align="center" width="33%">
       🤝<br>
       <strong>Collaborate</strong><br>
-      Open source and team projects
+      Hackathons, open-source and engineering projects
     </td>
   </tr>
 </table>
