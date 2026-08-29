@@ -103,7 +103,10 @@ const yogeshwaran = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshwaranP06&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshwaranP06&theme=github-compact&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 <br><br>
 
