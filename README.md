@@ -222,10 +222,6 @@ AI-powered road safety solution developed for a national hackathon, focusing on 
   <img src="https://img.shields.io/badge/LinkedIn-Yogeshwaran%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://youtube.com/@vikcosmic">
-  <img src="https://img.shields.io/badge/YouTube-VikCosmic-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-
 <a href="mailto:p.yogeshwaran2006@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
