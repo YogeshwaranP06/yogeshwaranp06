@@ -1,4 +1,4 @@
-# Hi, I'm Yogeshwaran 👋
+# Hi, I'm Yogeshwaran 
 
 <div align="center">
 
